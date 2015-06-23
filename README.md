@@ -1,2 +1,2 @@
 # Cookbook
-this repository contains receipes i like to share with my friend
+this repository contains receipes i like to share with my friend yes
